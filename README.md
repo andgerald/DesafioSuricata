@@ -1,10 +1,7 @@
 # Suricata
 
 ## Descripción
-El FBI está abriendo un departamento de informática y te ha contratado para crear el sistema
-online que gestione misiones secretas, necesitarás programar un servidor con Express que
-utilice JWT para la autorización de agentes que visiten las páginas restringidas.
-
+es un sitio web construido utilizando [Bootstrap](https://getbootstrap.com/). El objetivo principal del proyecto es mostrar cómo se puede utilizar el componente de tarjetas (`card`) de Bootstrap para crear una interfaz de usuario atractiva.
 ## Visuales
 
 ![Suricata](https://github.com/andgerald/DesafioSuricata/blob/main/suricata.PNG)
